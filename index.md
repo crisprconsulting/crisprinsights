@@ -4,5 +4,5 @@ CRISPR Insights in a consulting firm that provides advice from top innovators in
 
 Need advice or expertise on a genome engineering project? Please reach out to us: [mailto:info@crisprinsights.com](info@crisprinsights.com)
 
-_(c) CRISPR Insights, 2012-2018 _
+_(c) CRISPR Insights, 2012-2018_
 
