@@ -14,11 +14,12 @@
 .project-tagline:before {
     font-family: sans-serif;
     font-size: 28px;
-    content: 'CRISPR Insights';
+    content: 'CRISPR Insights <p>';
+    color: white;
     
 }
 
-.site-footer-owner .site-footer-credits {
+.site-footer-credits {
         visibility: hidden;
         font-size: 2px;
 }
