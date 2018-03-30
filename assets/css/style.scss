@@ -7,17 +7,14 @@
     visibility: hidden;
 }
 
-.project-name {
+.project-name:before {
     content: 'CRISPR Insights';
-    font-size: 28px;
+    font-size: 36px;
     font-family: sans-serif;
-    font-style: italic;
 }
 
-.project-tagline:before {
-    font-family: sans-serif;
-    font-size: 28px;
-    color: white;
+.project-name {
+    visibility: hidden;
 }
 
 .main-content {
