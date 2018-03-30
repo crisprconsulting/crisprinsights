@@ -8,7 +8,6 @@
 }
 
 .project-name {
-    visibility: hidden;
     content: 'CRISPR Insights';
     font-size: 28px;
 }
@@ -16,9 +15,7 @@
 .project-tagline:before {
     font-family: sans-serif;
     font-size: 28px;
-    content: 'CRISPR Insights <p>';
     color: white;
-    
 }
 
 .main-content {
