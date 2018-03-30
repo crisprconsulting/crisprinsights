@@ -8,8 +8,14 @@
 }
 
 .project-name {
+    visibility: hidden;
+}
+
+.project-tagline:before {
     font-family: sans-serif;
     size: 28px;
+    content: 'CRISPR Insights';
+    
 }
 
 .site-footer-owner .site-footer-credits {
